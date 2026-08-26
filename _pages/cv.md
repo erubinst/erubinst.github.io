@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Robotics, Carnegie Mellon University, 2025 (in progress)
-* B.A. in Physics, Oberlin College, 2021
+* Ph.D. in Robotics, Carnegie Mellon University, 2025 – Present
+* B.A. in Physics, Oberlin College, 2017 – 2021
 
 Work experience
 ------
