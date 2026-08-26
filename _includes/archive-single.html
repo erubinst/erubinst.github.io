@@ -28,8 +28,11 @@
 
     <!-- DEBUG
       collection="{{ post.collection }}"
-      viaSite={% if site.collections[post.collection].output == false %}FALSE{% elsif site.collections[post.collection].output == nil %}NIL{% else %}TRUE{% endif %}
-      viaPost={% if post.collection.output == false %}FALSE{% elsif post.collection.output == nil %}NIL{% else %}TRUE{% endif %}
+      label="{{ site.collections['portfolio'].label }}"
+      directory="{{ site.collections['portfolio'].directory }}"
+      docsSize="{{ site.collections['portfolio'].docs.size }}"
+      outputBracket={% if site.collections['portfolio']['output'] == false %}FALSE{% elsif site.collections['portfolio']['output'] == nil %}NIL{% else %}TRUE{% endif %}
+      outputVia="{{ site.collections['portfolio'].output }}"
     -->
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
