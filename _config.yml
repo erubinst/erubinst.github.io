@@ -23,7 +23,7 @@ repository               : "erubinst/erubinst.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-photo.jpg"
   name             : "Esme Rubinstein"
   pronouns         : "she/her"  
   bio              : "PhD Student at CMU"

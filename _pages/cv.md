@@ -16,6 +16,10 @@ Education
 
 Work experience
 ------
+* Research Assistant. CMU Robotics Institute, 2023-2025
+* Data Engineer, [IdeaCrew](https://ideacrew.com/), 2022-2025
+* Product Specialist, [Twinleaf](https://twinleaf.com/), 2021-2022
+* Research Assistant, Oberlin College, 2020-2021
 
 Publications
 ------
